@@ -1,0 +1,11 @@
+{
+  "name": "reflight",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jmlavoier/reflight.git",
+  "author": "joaolavoier-luizalabs <joao.filho@luizalabs.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
